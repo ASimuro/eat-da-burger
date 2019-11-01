@@ -10,7 +10,7 @@ Each burger in the waiting area also has a Devour it! button. When the user clic
 
 The app will store every burger in a database, whether devoured or not.
 
-A demo of this website running can be found here: 
+A demo of this website running can be found here: https://stark-beyond-54184.herokuapp.com
 
 Directory structure
 All the recommended files and directories should look like the following structure:
